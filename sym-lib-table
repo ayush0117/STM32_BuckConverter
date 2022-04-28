@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MP2359DJ-LF-Z1)(type Legacy)(uri /Users/Ayush1997/Downloads/LIB_MP2359DJ-LF-Z/MP2359DJ-LF-Z/KiCad/MP2359DJ-LF-Z.lib)(options "")(descr ""))
+  (lib (name MP2359DJ-LF-Z)(type Legacy)(uri /Users/Ayush1997/Downloads/LIB_MP2359DJ-LF-Z/MP2359DJ-LF-Z/KiCad/MP2359DJ-LF-Z.lib)(options "")(descr ""))
+)
